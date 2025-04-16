@@ -1,0 +1,16 @@
+{
+  "name": "alvin/august-99-exam",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alvin Pusta",
+      "email": "allanpusta.13@gmail.com"
+    }
+  ],
+  "require": {}
+}
